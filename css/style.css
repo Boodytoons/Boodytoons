@@ -90,7 +90,7 @@ button{
     background-color: cyan;
     cursor: pointer;
     outline: none;
-    border-radius: 15px;
+    border-radius: 10px;
     transition: 1s;
 }
 button:hover{
